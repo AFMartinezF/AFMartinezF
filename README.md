@@ -26,31 +26,33 @@ I've worked with some tools for Machine Learning (ML), Data Science (DS), Quantu
   <tr>
     <td>
       <picture>
-        <!-- Tema oscuro (vue-dark) -->
+        <!-- Dark Theme (vue-dark) -->
         <source 
-          srcset="https://github-readme-stats.vercel.app/api?username=AFMartinezF&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" 
+          srcset="https://github-readme-stats.vercel.app/api?username=AFMartinezF&show_icons=true&include_all_commits=true&theme=vue-dark" 
           media="(prefers-color-scheme: dark)" />
-        <!-- Tema claro (vue) -->
+        <!-- Light theme (vue) -->
         <source 
-          srcset="https://github-readme-stats.vercel.app/api?username=AFMartinezF&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" 
-          media="(prefers-color-scheme: light)" />
+          srcset="https://github-readme-stats.vercel.app/api?username=AFMartinezF&show_icons=true&include_all_commits=true&theme=vue" 
+          media="(prefers-color-scheme: light)" />   
+        <!-- Default theme -->
         <img 
-          src="https://github-readme-stats.vercel.app/api?username=AFMartinezF&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" 
-          alt="Angel's github stats" />
+          src="https://github-readme-stats.vercel.app/api?username=AFMartinezF&show_icons=true&include_all_commits=true&theme=vue-dark" 
+          alt="Angel's GitHub stats" />
       </picture>
     </td>
     <td>
       <picture>
-        <!-- Tema oscuro (vue-dark) -->
+        <!-- Dark Theme (vue-dark) -->
         <source 
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AFMartinezF&layout=compact&theme=vue-dark&hide_border=true" 
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AFMartinezF&layout=compact&theme=vue-dark" 
           media="(prefers-color-scheme: dark)" />
-        <!-- Tema claro (vue) -->
+        <!-- Light theme (vue) -->
         <source 
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AFMartinezF&layout=compact&theme=vue&hide_border=true" 
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AFMartinezF&layout=compact&theme=vue" 
           media="(prefers-color-scheme: light)" />
+        <!-- Default theme -->
         <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=AFMartinezF&layout=compact&theme=vue&hide_border=true" 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=AFMartinezF&layout=compact&theme=vue-dark" 
           alt="Top Languages" />
       </picture>
     </td>
@@ -60,33 +62,33 @@ I've worked with some tools for Machine Learning (ML), Data Science (DS), Quantu
 ## Top Repositories
 
 <p>
+  <a href="https://github.com/AFMartinezF/IntroHPC_MFEM">
   <picture>
-    <!-- Tema oscuro (vue-dark) -->
     <source 
       srcset="https://github-readme-stats.vercel.app/api/pin/?username=AFMartinezF&repo=IntroHPC_MFEM&theme=vue-dark" 
       media="(prefers-color-scheme: dark)" />
-    <!-- Tema claro (vue) -->
     <source 
       srcset="https://github-readme-stats.vercel.app/api/pin/?username=AFMartinezF&repo=IntroHPC_MFEM&theme=vue" 
       media="(prefers-color-scheme: light)" />
     <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=AFMartinezF&repo=IntroHPC_MFEM&theme=vue" 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=AFMartinezF&repo=IntroHPC_MFEM&theme=vue-dark" 
       alt="IntroHPC MFEM Repository" />
   </picture>
+  </a>
 
+  <a href="https://github.com/AFMartinezF/visualization_project">
   <picture>
-    <!-- Tema oscuro (vue-dark) -->
     <source 
       srcset="https://github-readme-stats.vercel.app/api/pin/?username=AFMartinezF&repo=visualization_project&theme=vue-dark" 
       media="(prefers-color-scheme: dark)" />
-    <!-- Tema claro (vue) -->
     <source 
       srcset="https://github-readme-stats.vercel.app/api/pin/?username=AFMartinezF&repo=visualization_project&theme=vue" 
       media="(prefers-color-scheme: light)" />
     <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=AFMartinezF&repo=visualization_project&theme=vue" 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=AFMartinezF&repo=visualization_project&theme=vue-dark" 
       alt="Visualization Project Repository" />
   </picture>
+  </a>  
 </p>
 
 
